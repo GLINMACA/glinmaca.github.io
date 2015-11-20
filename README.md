@@ -1,2 +1,2 @@
 # glinmaca.github.io
-The main website for GLINMACA.
+The [main website](http://glinmaca.github.io/) for GLINMACA.
