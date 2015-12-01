@@ -1,11 +1,11 @@
 # Site settings
 title: GLINMACA
-email: HEYLARSINSERTYOUREMAILHERE
+email: glinmacaorg@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is the site description, found in the _config.yml file.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://glinmaca.github.io/" # the base hostname & protocol for your site
-twitter_username: glinmaca
+twitter_username: glinmacaorg
 github_username:  glinmaca
 
 # Build settings
