@@ -5,16 +5,16 @@ permalink: /people/
 ---
 ##Board
 
-###[Lars G. A. Hilse](https://de.linkedin.com/in/deutschewebdesign) 
+###[Lars G. A. Hilse](https://de.linkedin.com/in/deutschewebdesign)   
 Founder and Chairman   
 Email: lars.hilse@gmail.com - PGP Key ID: 17FFC660   
 Office +49 (0)4835 9513027   
 Mobile +49 (0)173 5433491 
 
-###[Mitch Pirtle](https://www.linkedin.com/in/mitchpirtle)
+###[Mitch Pirtle](https://www.linkedin.com/in/mitchpirtle)   
 Technology 
 
-###[Dicran Babayantz](https://it.linkedin.com/in/dicran) 
+###[Dicran Babayantz](https://it.linkedin.com/in/dicran)   
 Marketing & Communication
 
 ##Translations
