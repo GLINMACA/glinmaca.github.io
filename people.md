@@ -5,10 +5,10 @@ permalink: /people/
 ---
 ##Board
 
-###Lars G. A. Hilse 
+###[Lars G. A. Hilse](https://de.linkedin.com/in/deutschewebdesign) 
 Founder and Chairman 
 
-###Mitch Pirtle
+###[Mitch Pirtle](https://www.linkedin.com/in/mitchpirtle)
 Technology 
 
 ###Dicran Babayantz 
