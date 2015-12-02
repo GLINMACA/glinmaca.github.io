@@ -32,4 +32,4 @@ Translations
 **Italian** - [Dicran Babayantz](https://it.linkedin.com/in/dicran)   
 **Japanese** - Kostyantyn Dobrelya   
 **Portuguese** - [Flavio Oliveira](https://nl.linkedin.com/in/flávio-junger-de-oliveira-71811a41/en)   
-**Russian**   [Marina Zschiedrich](https://www.linkedin.com/in/marina-zschiedrich-96897110b)
+**Russian** - [Marina Zschiedrich](https://www.linkedin.com/in/marina-zschiedrich-96897110b)
