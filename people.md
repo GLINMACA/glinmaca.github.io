@@ -16,23 +16,15 @@ Marketing & Communication
 
 ##Translations
 
-###Arabic
+###Arabic - Tony Marc
 
-Tony Marc
-
-###Chinese
-
-Wishes to remain anonymous
+###Chinese - Anonymous Contribution
 
 ###German - [Jonathan Gebauer](https://de.linkedin.com/in/jonathan-gebauer-572b2828/en)
 
-###Dutch
+###Dutch - Anonymous Contribution
 
-Wishes to remain anonymous
-
-###French
-
-Wishes to remain anonymous
+###French - Anonymous Contribution
 
 ###Hindi - [Chander Mohan Bhardwaj](https://in.linkedin.com/in/chanderm73)
 
@@ -43,5 +35,3 @@ Wishes to remain anonymous
 ###Portuguese - [Flavio Oliveira](https://nl.linkedin.com/in/flávio-junger-de-oliveira-71811a41/en)
 
 ###Russian
-
-tba
