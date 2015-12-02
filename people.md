@@ -8,6 +8,8 @@ permalink: /people/
 ###[Lars G. A. Hilse](https://de.linkedin.com/in/deutschewebdesign) 
 Founder and Chairman 
 
+lars.hilse@gmail.com - PGP Key ID: 17FFC660  // Office +49 (0)4835 9513027 // Mobile +49 (0)173 5433491 
+
 ###[Mitch Pirtle](https://www.linkedin.com/in/mitchpirtle)
 Technology 
 
