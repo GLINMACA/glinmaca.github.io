@@ -24,9 +24,7 @@ Tony Marc
 
 Wishes to remain anonymous
 
-###German
-
-[Jonathan Gebauer](https://de.linkedin.com/in/jonathan-gebauer-572b2828/en)
+###German - [Jonathan Gebauer](https://de.linkedin.com/in/jonathan-gebauer-572b2828/en)
 
 ###Dutch
 
@@ -36,21 +34,13 @@ Wishes to remain anonymous
 
 Wishes to remain anonymous
 
-###Hindi
+###Hindi - [Chander Mohan Bhardwaj](https://in.linkedin.com/in/chanderm73)
 
-[Chander Mohan Bhardwaj](https://in.linkedin.com/in/chanderm73)
+###Italian - [Dicran Babayantz](https://it.linkedin.com/in/dicran) 
 
-###Italian
+###Japanese - Kostyantyn Dobrelya
 
-[Dicran Babayantz](https://it.linkedin.com/in/dicran) 
-
-###Japanese
-
-Kostyantyn Dobrelya
-
-###Portuguese
-
-[Flavio Oliveira](https://nl.linkedin.com/in/flávio-junger-de-oliveira-71811a41/en)
+###Portuguese - [Flavio Oliveira](https://nl.linkedin.com/in/flávio-junger-de-oliveira-71811a41/en)
 
 ###Russian
 
