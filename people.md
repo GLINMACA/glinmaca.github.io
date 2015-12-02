@@ -3,7 +3,8 @@ layout: page
 title: People
 permalink: /people/
 ---
-##Board
+Board
+-----
 
 ###[Lars G. A. Hilse](https://de.linkedin.com/in/deutschewebdesign)   
 **Founder and Chairman**   
@@ -17,7 +18,10 @@ Mobile +49 (0)173 5433491
 ###[Dicran Babayantz](https://it.linkedin.com/in/dicran)   
 **Marketing & Communication**
 
-##Translations
+* * *
+
+Translations
+------------
 
 ###Arabic - Tony Marc
 
