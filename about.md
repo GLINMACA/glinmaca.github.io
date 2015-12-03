@@ -12,7 +12,7 @@ The Global Internet Magna Carta Project deals with everything from profane quest
 
 Further rights of Internet users, as well as global quality standards to secure digital infrastructure are also paramount. 
 
-##Why a regional/national Internet Magna Carta will not work
+## Why a regional/national Internet Magna Carta will not work
 The Global Internet Magna Carta is something so comprehensive, that it took two years to research and create. And it is work in progress. 
 
 The internet’s influence on society has become substantial - this document had to be translated to over 20 languages - so that every human being on earth has equal access to it. 

@@ -32,7 +32,7 @@ Every conversation should be kept confidential, as human behaviour in communicat
 
 Privacy becomes even more important regarding intimate details about every human’s life, for instance, their health or financial situation. We must make sure that privacy always stands before economic interests. 
 
-## &sect;§4 Right to be forgotten and Anonymity  
+## &sect;4 Right to be forgotten and Anonymity  
 
 Any state actor or commercial entity shall grant the right to any person to be forgotten. 
 
