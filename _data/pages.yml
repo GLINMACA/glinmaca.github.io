@@ -10,6 +10,9 @@
 - url: /blog
   title: Blog
   group: navigation
+- url: https://groups.google.com/forum/#!forum/glinmaca
+  title: Discuss
+  group: navigation
 - url: /contact
   title: Contact
   group: navigation
