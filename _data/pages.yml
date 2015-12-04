@@ -1,0 +1,15 @@
+- url: /
+  title: Home
+  group: navigation
+- url: /glinmaca
+  title: Internet Magna Carta
+  group: navigation
+- url: /contribute
+  title: Contribute
+  group: navigation
+- url: /blog
+  title: Blog
+  group: navigation
+- url: /contact
+  title: Contact
+  group: navigation
