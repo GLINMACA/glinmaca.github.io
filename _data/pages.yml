@@ -7,6 +7,9 @@
 - url: /contribute
   title: Contribute
   group: navigation
+- url: /people
+  title: People
+  group: navigation
 - url: /blog
   title: Blog
   group: navigation
